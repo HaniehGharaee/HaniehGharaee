@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanieh Gharaee
 - 👀 I’m interested in programming, exercise, movie, music , shopping and so on.
-- 🌱 I am currently working with JavaScript and TypeScript in the backend.
+- 🌱 I am currently working with TypeScript in the backend.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gharaie.hanieh@gmail.com.
 - 😄 Pronouns: ...
